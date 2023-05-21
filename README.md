@@ -5,7 +5,7 @@ The Clothing Similarity Search project is a Python code implementation that allo
 
 ## Instructions for Deployment
 
-1. Clone the Repository
+1. Clone the Repository https://github.com/the-pikachu/clothing-similarity-search.git
 2. Install Dependencies
 3. Set Up Google Custom Search API
 - Obtain an API key from the Google Developers Console.
