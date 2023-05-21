@@ -17,7 +17,7 @@ The Clothing Similarity Search project is a Python code implementation that allo
 - Replace the `search_engine_id` variable with your custom search engine ID.
 
 5. Run the Code
-6. 6. Enter the Clothing Item Description
+6. Enter the Clothing Item Description
 - Once the code is running, it will prompt you to enter a clothing item description.
 
 7. View Results
